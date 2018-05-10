@@ -2,7 +2,7 @@
 title: "Privilege"
 bg: orange
 color: black
-fa-icon: balance-scale
+fa-icon: user-check
 ---
 
 ## Checking Your Information Privilege
