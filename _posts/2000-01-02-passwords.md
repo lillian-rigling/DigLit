@@ -2,11 +2,10 @@
 title: "passwords"
 bg: blue
 color: white
-fa-icon: user-lock
+fa-icon: lock
 ---
 
 ## You Shall Not Pass:
-
 ### Improving Password Security
 
 This activity uses [How Secure is My Password?](https://howsecureismypassword.net/), an online password checker produced by Dashlane Password Manager, to raise awareness of password security and password best practices.
