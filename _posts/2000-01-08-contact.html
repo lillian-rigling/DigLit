@@ -4,13 +4,23 @@ bg: black
 color: white
 fa-icon: question
 ---
-
-<h2> Want to get in touch? </h2> <p>
-
-<form method="POST" action="https://formspree.io/LRIGLING@GMAIL.COM">
-      Email: 
-      <input type="email" name="email" placeholder="Your email"> <p>
-      Message: 
-      <textarea name="message" placeholder="Your message"></textarea>
+<form>
+      <form method="POST" action="https://formspree.io/LRIGLING@GMAIL.COM">
+            <div class="row">
+                   <div class="large-8 small-centered columns">
+            <fieldset>
+                <legend>Get in touch </legend>
+                <div class="row">
+                    <div class="small-12 columns">
+                          <label for="email"> e-Mail </label>
+                          <input type="email" name="email" placeholder="Your email"></input>
+                  </div>
+                  <div>
+                  <div class="row">
+                    <div class="small-12 columns">
+                          <label for="message">Message</label>
+                          <textarea name="message" placeholder="Your message"></textarea>
+                        </div>
+                        </div>
   <button type="submit">Send</button>
 </form>
