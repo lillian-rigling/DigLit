@@ -12,3 +12,5 @@ This activity uses [How Secure is My Password?](https://howsecureismypassword.ne
 Invite passersby to participate by asking, “How long do you think it would take a computer to crack your password?” Use a tally system (in our case, this was displayed on a large whiteboard) to record the amount of time it would take to crack each password according to this website.
 
 If students have questions or concerns about their security based on the results from the first activity, we offer to show them another, [Have I Been Pwned?](https://haveibeenpwned.com/). This tool allows users to check if they have an account that has been compromised in a data breach.
+
+[Download Activity Template](https://github.com/lillian-rigling/DigLit/raw/gh-pages/You%20Shall%20Not%20Pass%20-%20Improving%20Password%20Security.pdf){: .btn}
