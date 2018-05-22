@@ -9,8 +9,10 @@ fa-icon: info
 <a href="https://www.lib.uwo.ca/news/2018/guerrilla_instruction_for_a_digital_world.html"><strong>Guerrilla Instruction for a Digital World</strong></a>, March 2018, Western Libraries News
 </p>
 
+
+
 ## Presentations:
-<iframe src="https://wilu2018.sched.com/event/E1BP/d3-this-was-actually-fun-engaging-users-in-conversations-about-digital-literacy" width="450" height="450" align="middle"></iframe>
+<p style="text align: center;"><iframe src="https://wilu2018.sched.com/event/E1BP/d3-this-was-actually-fun-engaging-users-in-conversations-about-digital-literacy" width="600" height="350"></iframe></p>
 
 <h2> Get in Touch: </h2>
 
