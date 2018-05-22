@@ -4,7 +4,7 @@ bg: turquoise
 color: white
 fa-icon: info
 ---
-## Read about us
+## Read About Us:
 
 [*Guerrilla Instruction for a Digital World*, March 2018, Western Libraries News](https://www.lib.uwo.ca/news/2018/guerrilla_instruction_for_a_digital_world.html)
 
