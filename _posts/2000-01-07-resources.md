@@ -12,8 +12,8 @@ fa-icon: info
 
 
 ## Presentations:
-<p style="text align: center;"><iframe src="https://wilu2018.sched.com/event/E1BP/d3-this-was-actually-fun-engaging-users-in-conversations-about-digital-literacy" width="600" height="350"></iframe></p>
-
+<p style="text align: center;"><iframe src="https://wilu2018.sched.com/event/E1BP/d3-this-was-actually-fun-engaging-users-in-conversations-about-digital-literacy" width="600" height="350" style="middle"></iframe></p>
+<br>
 <h2> Get in Touch: </h2>
 
 <p style="text-align: center;">
