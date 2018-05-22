@@ -10,9 +10,10 @@ fa-icon: info
 </p>
 
 ## Presentations:
-<iframe src="https://wilu2018.sched.com/event/E1BP/d3-this-was-actually-fun-engaging-users-in-conversations-about-digital-literacy "width="450" height="450" align="middle"></iframe>
+<iframe src="https://wilu2018.sched.com/event/E1BP/d3-this-was-actually-fun-engaging-users-in-conversations-about-digital-literacy" width="450" height="450" style="float:right"></iframe>
 
 <h2> Get in Touch: </h2>
 
 <p style="text-align: center;">
 <strong> <a href ="https://twitter.com/MaddieGoldhawk">Madisson Goldhawk</a></strong> | <strong><a href ="https://twitter.com/erniee_jo">Erin Johnson</a></strong> | <strong> <a href="https://twitter.com/lilyrglg">Lillian Rigling</a> </strong></p>
+di
