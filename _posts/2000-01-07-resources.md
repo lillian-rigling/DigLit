@@ -7,7 +7,7 @@ fa-icon: info
 ## Read About Us:
 <p style="text-align: center;">
 <a href="https://www.lib.uwo.ca/news/2018/guerrilla_instruction_for_a_digital_world.html"><strong>Guerrilla Instruction for a Digital World</strong>, March 2018, Western Libraries News
-</p>
+
 
 <h2> Get in Touch: </h2>
 
