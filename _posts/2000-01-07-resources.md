@@ -10,4 +10,5 @@ fa-icon: info
 
 ## Get in Touch:
 
-**[Madisson](https://twitter.com/MaddieGoldhawk)** |**[Erin](https://twitter.com/erniee_jo)** | **[Lillian](https://twitter.com/lilyrglg)**
+<p style="text-align: center;">
+**[Madisson](https://twitter.com/MaddieGoldhawk)**        |       **[Erin](https://twitter.com/erniee_jo)**        |       **[Lillian](https://twitter.com/lilyrglg)** </p>
