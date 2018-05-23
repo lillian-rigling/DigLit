@@ -15,7 +15,7 @@ plugins:
   - jekyll-seo-tag
 
 ### content configuration ###
-title:       "Digital Literacies Pop-ups Toolkit"
+title:       "Digital Literacy Pop-ups Toolkit"
 keywords:    "media literacy, fake news, toolkit, pop-ups, academic libraries, privacy, digital literacy, digital literacies, media literacies, library, libraries, librarian, information literacy, WILU, password security, information privilege"
 description: "Short-form, no-cost templates for teaching digital literacies in your library"
 source_link:

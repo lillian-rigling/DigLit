@@ -3,7 +3,7 @@ Digital Literacies Pop-Up Toolkit
 
 # What is it?
 
-Digital Literacies Pop-Up Toolkit was created by Madisson Goldhawk, Erin Johnson, and Lillian Rigling. This toolkit allows libraries or other institutions to adopt or adapt zero-cost pop-up activities meant to provide short-form tangible information literacy instruction related to digital privacy and media literacy.
+Digital Literacy Pop-Up Toolkit was created by Madisson Goldhawk, Erin Johnson, and Lillian Rigling. This toolkit allows libraries or other institutions to adopt or adapt zero-cost pop-up activities meant to provide short-form tangible information literacy instruction related to digital privacy and media literacy.
 
 # How'd you make it?
 
