@@ -15,9 +15,9 @@ plugins:
   - jekyll-seo-tag
 
 ### content configuration ###
-title:       "Digital Literacies Pop-ups"
-keywords:    "media literacy, pop-ups, academic libraries, privacy, digital literacy"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "Digital Literacies Pop-ups Toolkit"
+keywords:    "media literacy, toolkit, pop-ups, academic libraries, privacy, digital literacy, digital literacies, media literacies, library, libraries, librarian, information literacy"
+description: "Short-form, no-cost templates for teaching digital literacies in your library"
 source_link:
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
