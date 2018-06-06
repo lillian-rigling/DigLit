@@ -12,8 +12,9 @@ fa-icon: info
 
 
 ## Presentations:
-<center><iframe src="https://wilu2018.sched.com/event/E1BP/d3-this-was-actually-fun-engaging-users-in-conversations-about-digital-literacy" width="100%" height="400" style="middle"></iframe>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpTepDBKiI3y-vqoeNw5-YnX4kntAPbC16mERHppbsMKJYsziZv8oKtdTpviCg0DTmn0t5u9bgv7v0/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </center><br>
+
 <h2> Get in Touch: </h2>
 
 <p style="text-align: center;">
