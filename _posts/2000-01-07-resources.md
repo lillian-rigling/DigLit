@@ -10,13 +10,29 @@ fa-icon: info
 </p>
 
 
-
 ## Presentations:
 <center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpTepDBKiI3y-vqoeNw5-YnX4kntAPbC16mERHppbsMKJYsziZv8oKtdTpviCg0DTmn0t5u9bgv7v0/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </center><br>
 
 <h2> Get in Touch: </h2>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
 
+<img src="https://github.com/lillian-rigling/DigLit/blob/gh-pages/Headshots/headshot_JohnsonE.jpg?raw=true" alt="Erin Johnson" style="width:200px">
+<img src="https://github.com/lillian-rigling/DigLit/blob/gh-pages/Headshots/bio-photo.jpg?raw=true" alt="Lillian Rigling" style="width:200px">
+
+
+</body>
+</html>
 <p style="text-align: center;">
 <strong> <a href ="https://twitter.com/MaddieGoldhawk">Madisson Goldhawk</a></strong> | <strong><a href ="https://twitter.com/erniee_jo">Erin Johnson</a></strong> | <strong> <a href="https://twitter.com/lilyrglg">Lillian Rigling</a> </strong></p>
 <hr>
