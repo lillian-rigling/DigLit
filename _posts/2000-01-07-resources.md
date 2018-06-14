@@ -16,27 +16,6 @@ fa-icon: info
 
 <h2> Get in Touch: </h2>
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-</head>
-<body>
-<p style="align: center;">
-<div class="row">
-  <div class="column">
-<figure> <a href="https://twitter.com/erniee_jo"> <img src="https://github.com/lillian-rigling/DigLit/blob/gh-pages/Headshots/headshot_JohnsonE.jpg?raw=true" alt="Erin Johnson" style="width:200px"> <figcaption> Erin Johnson </figcaption> </a> </figure>
-</div>
-<div class="column">
-<figure> <a href="https://twitter.com/lilyrglg"><img src="https://github.com/lillian-rigling/DigLit/blob/gh-pages/Headshots/bio-photo.jpg?raw=true" alt="Lillian Rigling" style="width:200px"><figcaption> Lillian Rigling </figcaption> </a> </figure>
-</div>
-</div>
-</style>
-
 </body>
 </html>
 <p style="text-align: center;">
