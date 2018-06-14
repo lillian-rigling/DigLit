@@ -15,7 +15,7 @@ fa-icon: info
 </center><br>
 
 <h2> Get in Touch: </h2>
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,9 +26,10 @@ img {
 </style>
 </head>
 <body>
+<p style="text-align: center;">
+<figure> <a href="https://twitter.com/erniee_jo"> <img src="https://github.com/lillian-rigling/DigLit/blob/gh-pages/Headshots/headshot_JohnsonE.jpg?raw=true" alt="Erin Johnson" style="width:200px"> <figcaption> Erin Johnson> </figcaption> </a> </figure>
 
-<img src="https://github.com/lillian-rigling/DigLit/blob/gh-pages/Headshots/headshot_JohnsonE.jpg?raw=true" alt="Erin Johnson" style="width:200px">
-<img src="https://github.com/lillian-rigling/DigLit/blob/gh-pages/Headshots/bio-photo.jpg?raw=true" alt="Lillian Rigling" style="width:200px">
+<figure> <a href="https://twitter.com/lilyrglg"><img src="https://github.com/lillian-rigling/DigLit/blob/gh-pages/Headshots/bio-photo.jpg?raw=true" alt="Lillian Rigling" style="width:200px"><figcaption> Lillian Rigling </figcaption> </a> </figure>
 
 
 </body>
