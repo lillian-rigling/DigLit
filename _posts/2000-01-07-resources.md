@@ -26,11 +26,16 @@ img {
 </style>
 </head>
 <body>
-<p style="text-align: center;">
+<p style="align: center;">
+<div class="row">
+  <div class="column"
 <figure> <a href="https://twitter.com/erniee_jo"> <img src="https://github.com/lillian-rigling/DigLit/blob/gh-pages/Headshots/headshot_JohnsonE.jpg?raw=true" alt="Erin Johnson" style="width:200px"> <figcaption> Erin Johnson> </figcaption> </a> </figure>
-
+</div>
+<div class="column">
 <figure> <a href="https://twitter.com/lilyrglg"><img src="https://github.com/lillian-rigling/DigLit/blob/gh-pages/Headshots/bio-photo.jpg?raw=true" alt="Lillian Rigling" style="width:200px"><figcaption> Lillian Rigling </figcaption> </a> </figure>
-
+</div>
+</div>
+</style>
 
 </body>
 </html>
