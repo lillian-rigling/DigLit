@@ -16,8 +16,6 @@ fa-icon: info
 
 <h2> Get in Touch: </h2>
 
-</body>
-</html>
 <p style="text-align: center;">
 <strong> <a href ="https://twitter.com/MaddieGoldhawk">Madisson Goldhawk</a></strong> | <strong><a href ="https://twitter.com/erniee_jo">Erin Johnson</a></strong> | <strong> <a href="https://twitter.com/lilyrglg">Lillian Rigling</a> </strong></p>
 <hr>
