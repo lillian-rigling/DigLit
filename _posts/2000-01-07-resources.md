@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-bg: #06585B
+bg: 06585B
 color: white
 fa-icon: info
 ---
