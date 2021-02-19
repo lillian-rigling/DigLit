@@ -29,11 +29,11 @@ google_analytics_key: UA-87286945-3
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
+  blue:      '#10517F'
+  green:     '#315D18'
+  purple:    '#800080'
   orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  turquoise: '#0A7680'
 
 kramdown:
   auto_ids:  false
