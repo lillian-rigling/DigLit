@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-bg: darkturquoise
+bg: turquoise
 color: white
 fa-icon: info
 ---
